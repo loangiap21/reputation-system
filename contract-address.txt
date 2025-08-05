@@ -1,0 +1,9 @@
+Contract Address: ST48Z0HEKRDGKPS5R72NP5JGH29RSWH5NT1DJ0Z4.reputation-system
+Transaction ID: a687e4b16cf8ec62efb4124ea5dcb1a50b4e0096677c9
+Network: Testnet
+Deployed: 2025-01-27T00:00:00.000Z
+Explorer URL: https://explorer.stacks.co/txid/a687e4b16cf8ec62efb4124ea5dcb1a50b4e0096677c9?chain=testnet
+Contract URL: https://explorer.stacks.co/address/ST48Z0HEKRDGKPS5R72NP5JGH29RSWH5NT1DJ0Z4?chain=testnet
+
+Deployment Status: ✅ SUCCESSFUL
+Cost: 0.054680 STX

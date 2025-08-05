@@ -1,0 +1,31 @@
+[network]
+name = "testnet"
+node_rpc_address = "https://stacks-node-api.testnet.stacks.co"
+
+[accounts.deployer]
+mnemonic = "finish coyote penalty scene please hobby off settle knife else hotel segment leg tornado drama over extra frown endorse blush mammal expire voyage market"
+balance = 100_000_000_000_000
+
+[accounts.wallet_1]
+mnemonic = "sell invite acquire kitten bamboo drastic jelly vivid peace spawn twice guilt pave pen trash pretty park cube fragile unaware remain midnight betray rebuild"
+balance = 100_000_000_000_000
+
+[accounts.wallet_2]
+mnemonic = "hold excess usual excess ring elephant install account glad dry fragile donkey gaze humble truck breeze nation gasp vacuum limb head keep delay hospital"
+balance = 100_000_000_000_000
+
+[accounts.wallet_3]
+mnemonic = "cycle puppy glare enroll cost improve round trend wrist mushroom scorpion tower claim oppose clever elephant dinosaur eight problem before frozen dune wagon high"
+balance = 100_000_000_000_000
+
+[accounts.wallet_4]
+mnemonic = "board list obtain sugar hour worth raven scout denial thunder horse logic fury scorpion fold genuine phrase wealth news aim below celery when cabin"
+balance = 100_000_000_000_000
+
+[[events.print]]
+contract_identifier = "ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM.reputation-system"
+contains = "reputation"
+
+[[events.print]]
+contract_identifier = "ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM.reputation-system"
+contains = "rating"

@@ -1,0 +1,28 @@
+{
+  "name": "simple-reputation-system",
+  "version": "1.0.0",
+  "description": "A simple reputation system for rating users on blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "clarinet test",
+    "deploy": "ts-node scripts/deploy.ts",
+    "interact": "ts-node interact-testnet.ts",
+    "check": "clarinet check"
+  },
+  "keywords": ["stacks", "clarity", "reputation", "rating", "blockchain"],
+  "author": "Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "@hirosystems/clarinet-sdk": "^2.0.0",
+    "@stacks/transactions": "^6.0.0",
+    "@stacks/network": "^6.0.0",
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  },
+  "dependencies": {
+    "@stacks/connect": "^7.0.0",
+    "cross-fetch": "^4.0.0"
+  }
+}
